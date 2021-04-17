@@ -1,0 +1,6 @@
+div {
+   border: 20px solid;
+   padding: 16px;
+   margin: 10px;
+   box-sizing: border-box;
+}

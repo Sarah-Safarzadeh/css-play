@@ -3,12 +3,13 @@ header {
     color: salmon;
     border: 50px ridge pink;
 }
-div {
+li {
    border: 20px solid black;
    padding: 16px;
    margin: 10px;
    box-sizing: border-box;
    text-align: center;
+   list-style: none;
 }
 
 /* Cookie styles */

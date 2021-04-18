@@ -11,6 +11,9 @@ li {
    text-align: center;
    list-style: none;
 }
+li:hover {
+    text-transform: uppercase;
+}
 
 /* Cookie styles */
 .tm {
